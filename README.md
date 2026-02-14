@@ -1,8 +1,3 @@
-You want the full README? Good. That’s the difference between “we participated” and “we’re finalists.”
-
-Here’s a clean, professional README you can paste directly into your repo:
-
----
 
 # Sampark AI
 
